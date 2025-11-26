@@ -7,7 +7,7 @@
 
 ## SETUP
 1, Must have Python installed.
-2, Must have the following library to work :
+/n 2, Must have the following library to work :
  - pip install selenium pandas openpyxl
 3, This is a script to, run like any normal python script.
 
