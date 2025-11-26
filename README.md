@@ -6,10 +6,10 @@
 - This is an older version still using chromedriver (Tutorial: https://youtu.be/dz59GsdvUF8?si=0nUkNt_p6NYF_nzT).
 
 ## SETUP
-1, Must have Python installed.
-/n 2, Must have the following library to work :
+1. Must have Python installed.
+2. Must have the following library to work :
  - pip install selenium pandas openpyxl
-3, This is a script to, run like any normal python script.
+3. This is a script to, run like any normal python script.
 
 ## License
 
