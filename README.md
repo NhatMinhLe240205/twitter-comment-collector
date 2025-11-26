@@ -1,5 +1,7 @@
 # twitter-comment-collector
 
+A bot for collecting comment on a X post using Sellenium. The bot will collect the username, date, comment content and export them into an Excel file.
+
 ## ATTENTION: 
 - This might violate the Term & Service of Twitter (X) verify here: "https://x.com/en/tos". Should have a throw away dedicated account for usage. 
 - Chrome should be on the newest version for easy usage.
